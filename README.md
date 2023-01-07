@@ -1,2 +1,2 @@
 # CSS-Study
-CSS demo projects and practices
+CSS demo projects and practices.
