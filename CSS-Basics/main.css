@@ -14,14 +14,25 @@ body {
   width: 100%;
 }
 
+.section-title {
+  color: #2ddf5c;
+  font-family: "Arvo", serif;
+  text-align: center;
+}
+
 #product-overview h1 {
   color: white;
   font-family: "Arvo", serif;
 }
 
-.section-title {
-  color: #2ddf5c;
-  font-family: "Arvo", serif;
+.plan {
+  background: #d5ffdc;
+  text-align: center;
+  padding: 16px;
+  margin: 8px;
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
 }
 
 .main-header {
