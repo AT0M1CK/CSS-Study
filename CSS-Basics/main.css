@@ -33,6 +33,7 @@ body {
   display: inline-block;
   width: 30%;
   vertical-align: middle;
+  border-radius: 6px;
 }
 
 .plan--highlighted {
@@ -94,6 +95,17 @@ body {
 
 .button:focus {
   outline: none;
+}
+
+#key-features {
+  background: #ff1b68;
+  margin-top: 80px;
+  padding: 16px;
+}
+
+#key-features .section-title {
+  color: white;
+  margin: 32px;
 }
 
 .main-header {
