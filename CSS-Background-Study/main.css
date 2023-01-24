@@ -22,8 +22,9 @@
   color: white;
   font-family: "Arvo", sans-serif;
   position: absolute;
-  bottom: 5%;
+  bottom: 0%;
   left: 3%;
+  width: 100%;
 }
 
 .plan__list {
@@ -115,6 +116,7 @@
   border: 2px solid #424242;
   border-radius: 50%;
   margin: auto;
+  padding: 20px;
 }
 
 .key-feature__description {
